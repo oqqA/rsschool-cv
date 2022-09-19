@@ -1,1 +1,1 @@
-https://oqqa.github.io/rsschool-cv/cv
+https://oqqa.github.io/rsschool-cv/
